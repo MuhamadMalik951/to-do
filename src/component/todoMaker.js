@@ -264,13 +264,13 @@ const todoFormation = (function(){
     }
     function priorityColorChanger(priority, todo){
 
-        if(priority == 'LOW'){
+        if(priority == 'low' || priority == 'LOW'){
             todo.style.color = 'lightgreen'
         }
-        else if(priority == 'MEDIUM'){
+        else if(priority == 'MEDIUM' || priority == 'medium'){
             todo.style.color = 'Yellow'
         }
-        else if(priority == 'HIGH'){
+        else if(priority == 'HIGH' || priority == 'high'){
             todo.style.color = 'Red'
         }
     }
