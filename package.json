@@ -91,6 +91,7 @@
   "devDependencies": {
     "bable-loader": "^0.0.1-security",
     "css-loader": "^6.8.1",
+    "gh-pages": "^6.1.0",
     "html-webpack-plugin": "^5.5.3",
     "install": "^0.13.0",
     "style-loader": "^3.3.3",
@@ -101,7 +102,7 @@
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
-    "live" : "live-server"
+    "live": "live-server"
   },
   "author": "",
   "license": "ISC"

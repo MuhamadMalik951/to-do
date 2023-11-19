@@ -286,7 +286,7 @@ animation: rotate 1.3s linear infinite;
 .sidebar-projects {
     display: flex;
     background-color: #174ea6;
-    height: 40rem;
+    height: 100vh;
     flex-direction: column;
     align-items: center;
     width: 95%;
