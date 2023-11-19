@@ -60,7 +60,7 @@ window.addEventListener('load', () => {
                     name: 'Delete Default ',
                     description: 'You can delete default project by adding more project. THANK YOU!', 
                     date: 'not yet',
-                    priority: 'high',
+                    priority: 'HIGH',
                     active: true
 
                 },
@@ -68,34 +68,34 @@ window.addEventListener('load', () => {
                     name: 'Default Task',
                     description: 'Thi is the default description', 
                     date: 'not yet',
-                    priority: 'high'
+                    priority: 'HIGH'
                 },
 
                 {
                     name: 'Fitness Routine',
                     description: 'Hit the gym for a workout session.',
                     date: '2023-11-21',
-                    priority: 'low'
+                    priority: 'LOW'
                 },
                 {
                     name: 'Prepare Presentation',
                     description: 'Compile data and create a presentation for the upcoming conference.',
                     date: '2023-11-25',
-                    priority: 'high',
+                    priority: 'HIGH',
                     active: true
                 },
                 {
                     name: 'Meeting with Team',
                     description: 'Discuss project updates and assign tasks for the week.',
                     date: '2023-11-20',
-                    priority: 'medium',
+                    priority: 'MEDIUM',
 
                 },
                 {
                     name: 'Client Call',
                     description: 'Scheduled call with important client to address their concerns.',
                     date: '2023-11-22',
-                    priority: 'high',
+                    priority: 'HIGH',
                     active: true
 
                 },
@@ -104,93 +104,93 @@ window.addEventListener('load', () => {
                         name: 'Prepare Presentation',
                         description: 'Compile data and create a presentation for the upcoming conference.',
                         date: '2023-11-25',
-                        priority: 'high'
+                        priority: 'HIGH'
                     },
                     
                         {
                             name: 'Project Deadline',
                             description: 'Complete and submit the project by the deadline.',
                             date: '2023-11-30',
-                            priority: 'high'
+                            priority: 'HIGH'
                         },
                         {
                             name: 'Research New Technologies',
                             description: 'Explore and gather information on emerging technologies in the industry.',
                             date: 'not yet',
-                            priority: 'medium'
+                            priority: 'MEDiUM'
                         },
                         {
                             name: 'Family Dinner',
                             description: 'Plan and organize a special dinner with family.',
                             date: '2023-12-05',
-                            priority: 'low'
+                            priority: "LOW"
                         },
                         {
                             name: 'Read Book',
                             description: 'Start reading the new book on personal development.',
                             date: '2023-11-23',
-                            priority: 'medium'
+                            priority: 'MEDIUM'
                         },
                         
                             {
                                 name: 'Client Proposal',
                                 description: 'Draft and send a proposal to potential client XYZ.',
                                 date: '2023-11-28',
-                                priority: 'high'
+                                priority: 'HIGH'
                             },
                             {
                                 name: 'Language Learning',
                                 description: 'Dedicate 30 minutes to practice a new language.',
                                 date: 'not yet',
-                                priority: 'low'
+                                priority: "LOW"
                             },
                             {
                                 name: 'Team Building Activity',
                                 description: 'Plan a team-building activity for the end of the month.',
                                 date: '2023-11-29',
-                                priority: 'medium'
+                                priority: 'MEDIUM'
                             },
                             {
                                 name: 'Update Resume',
                                 description: 'Review and update your resume with recent achievements.',
                                 date: 'not yet',
-                                priority: 'medium'
+                                priority: 'MEDIUM'
                             },
                             {
                                 name: 'Networking Event',
                                 description: 'Attend the industry networking event on Saturday.',
                                 date: '2023-12-02',
-                                priority: 'high'
+                                priority: 'HIGH'
                             },
                             {
                                 name: 'Budget Review',
                                 description: 'Review and update monthly budget for personal finances.',
                                 date: '2023-11-27',
-                                priority: 'medium'
+                                priority: 'MEDIUM'
                             },
                             {
                                 name: 'Home Maintenance',
                                 description: 'Schedule a plumber for fixing the leaky faucet.',
                                 date: '2023-11-26',
-                                priority: 'high'
+                                priority: 'HIGH'
                             },
                             {
                                 name: 'Explore New Recipes',
                                 description: 'Try cooking a new recipe for dinner.',
                                 date: 'not yet',
-                                priority: 'low'
+                                priority: "LOW"
                             },
                             {
                                 name: 'Volunteer Opportunity',
                                 description: 'Look for local volunteer opportunities for the weekend.',
                                 date: 'not yet',
-                                priority: 'medium'
+                                priority: 'MEDIUM'
                             },
                             {
                                 name: 'Tech Conference Registration',
                                 description: 'Register for the upcoming technology conference.',
                                 date: '2023-12-01',
-                                priority: 'high'
+                                priority: 'HIGH'
                             }
                         
                 
