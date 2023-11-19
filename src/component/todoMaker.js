@@ -274,6 +274,7 @@ const todoFormation = (function(){
             todo.style.color = 'Red'
         }
     }
+    console.log('this is working alrigh')
     
     function checkList(append, indexx, entry, project) {
 
