@@ -1,5 +1,5 @@
 import { startBtn, storeLabel , firstLable, cancelForm, form, sidebarProjects, project, todoContainer, projectArray, todoFormation, localProjectArray, setDataSet} from '../index.js';
-
+// import deleteIcon from "../assets/delete.svg"
 
 const projectFormation = (function()
 {
@@ -17,7 +17,6 @@ const projectFormation = (function()
             
         })
     }
-    
     function reverseShowForm(){
         form.style.display = 'none'
         form.style.opacity = '0'
